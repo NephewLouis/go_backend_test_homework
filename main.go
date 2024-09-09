@@ -1,3 +1,5 @@
+// Today is a good day
+
 package main
 
 import (
